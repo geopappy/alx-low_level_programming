@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+!#/bin/bash
+>>>>>>> 05451ba2bf04f1e7e6baf3fccba22544684bf4fd
 gcc -S $CFILE
